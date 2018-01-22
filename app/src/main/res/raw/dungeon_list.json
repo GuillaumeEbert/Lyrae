@@ -1,0 +1,286 @@
+{
+  "dungeons" : [
+    {
+      "zoneId" : 8524,
+      "name" : "ToS",
+      "dungeonSets" : [
+        {"classId" : 1, "setId " : 1312},
+        {"classId" : 2, "setId " : 1307},
+        {"classId" : 3, "setId " : 1304},
+        {"classId" : 4, "setId " : 1309},
+        {"classId" : 5, "setId " : 1308},
+        {"classId" : 6, "setId " : 1301},
+        {"classId" : 7, "setId " : 1310},
+        {"classId" : 8, "setId " : 1305},
+        {"classId" : 9, "setId " : 1311},
+        {"classId" : 10, "setId " : 1306},
+        {"classId" : 11, "setId " : 1303},
+        {"classId" : 12, "setId " : 1302}
+      ],
+      "bosses": [
+        {
+          "bossId": 115844,
+          "loots" : [
+            {"lootId":147055},
+            {"lootId":147108},
+            {"lootId":147076},
+            {"lootId":147039},
+            {"lootId":146984},
+            {"lootId":146986},
+            {"lootId":147112},
+            {"lootId":147022},
+            {"lootId":147104},
+            {"lootId":147084},
+            {"lootId":147009},
+            {"lootId":147065},
+            {"lootId":146992},
+            {"lootId":147057},
+            {"lootId":147069},
+            {"lootId":147027}
+          ]
+        },
+
+        {
+          "bossId": 116689,
+          "loots" : [
+            {"lootId":147003},
+            {"lootId":147080},
+            {"lootId":147073},
+            {"lootId":147035},
+            {"lootId":146998},
+            {"lootId":147010},
+            {"lootId":147147},
+            {"lootId":147130},
+            {"lootId":147183},
+            {"lootId":147172},
+            {"lootId":147051},
+            {"lootId":147124},
+            {"lootId":147178},
+            {"lootId":147165},
+            {"lootId":147077},
+            {"lootId":147096},
+            {"lootId":146996},
+            {"lootId":147053},
+            {"lootId":147160},
+            {"lootId":147041},
+            {"lootId":147088},
+            {"lootId":147136},
+            {"lootId":147013},
+            {"lootId":147190},
+            {"lootId":147142},
+            {"lootId":147154}
+          ]
+        },
+
+        {
+          "bossId": 116407,
+          "loots" : [
+            {"lootId":147100},
+            {"lootId":147002},
+            {"lootId":147129},
+            {"lootId":147182},
+            {"lootId":147037},
+            {"lootId":147171},
+            {"lootId":147029},
+            {"lootId":147164},
+            {"lootId":147146},
+            {"lootId":147123},
+            {"lootId":147177},
+            {"lootId":147109},
+            {"lootId":147043},
+            {"lootId":147092},
+            {"lootId":147045},
+            {"lootId":147159},
+            {"lootId":147000},
+            {"lootId":146994},
+            {"lootId":147020},
+            {"lootId":147071},
+            {"lootId":147135},
+            {"lootId":147189},
+            {"lootId":147067},
+            {"lootId":147141},
+            {"lootId":147153}
+
+          ]
+        },
+
+        {
+          "bossId": 118523,
+          "loots" : [
+            {"lootId":147097},
+            {"lootId":147005},
+            {"lootId":147101},
+            {"lootId":147068},
+            {"lootId":147061},
+            {"lootId":147089},
+            {"lootId":147033},
+            {"lootId":147054},
+            {"lootId":147031},
+            {"lootId":147105},
+            {"lootId":147078},
+            {"lootId":146997},
+            {"lootId":146987},
+            {"lootId":147017},
+            {"lootId":147012},
+            {"lootId":147056},
+            {"lootId":147021}
+          ]
+        },
+
+
+        {
+          "bossId" : 115767,
+          "loots" : [
+            {"lootId":147049},
+            {"lootId":147131},
+            {"lootId":147184},
+            {"lootId":147173},
+            {"lootId":147113},
+            {"lootId":147093},
+            {"lootId":147125},
+            {"lootId":147028},
+            {"lootId":146990},
+            {"lootId":147059},
+            {"lootId":147166},
+            {"lootId":147148},
+            {"lootId":147179},
+            {"lootId":147023},
+            {"lootId":147085},
+            {"lootId":147081},
+            {"lootId":147161},
+            {"lootId":147004},
+            {"lootId":146985},
+            {"lootId":147137},
+            {"lootId":147016},
+            {"lootId":147191},
+            {"lootId":147011},
+            {"lootId":147143},
+            {"lootId":147155}
+          ]
+
+        },
+
+        {
+          "bossId": 118460,
+          "loots" : [
+            {"lootId":147063},
+            {"lootId":147086},
+            {"lootId":147128},
+            {"lootId":147181},
+            {"lootId":147145},
+            {"lootId":147176},
+            {"lootId":147040},
+            {"lootId":147170},
+            {"lootId":147047},
+            {"lootId":147106},
+            {"lootId":147070},
+            {"lootId":147122},
+            {"lootId":147110},
+            {"lootId":147014},
+            {"lootId":147114},
+            {"lootId":147158},
+            {"lootId":147024},
+            {"lootId":147163},
+            {"lootId":146995},
+            {"lootId":147018},
+            {"lootId":147134},
+            {"lootId":147188},
+            {"lootId":147140},
+            {"lootId":147152}
+          ]
+        },
+
+        {
+          "bossId": 118289,
+          "loots" : [
+            {"lootId":147194},
+            {"lootId":147050},
+            {"lootId":147127},
+            {"lootId":147185},
+            {"lootId":147015},
+            {"lootId":147169},
+            {"lootId":147098},
+            {"lootId":147032},
+            {"lootId":147121},
+            {"lootId":147175},
+            {"lootId":146993},
+            {"lootId":147157},
+            {"lootId":147025},
+            {"lootId":147167},
+            {"lootId":147149},
+            {"lootId":147090},
+            {"lootId":147060},
+            {"lootId":147133},
+            {"lootId":146999},
+            {"lootId":151189},
+            {"lootId":147187},
+            {"lootId":147115},
+            {"lootId":147094},
+            {"lootId":147139},
+            {"lootId":147151}
+          ]
+        },
+
+        {
+          "bossId": 116939,
+          "loots" : [
+            {"lootId":147006},
+            {"lootId":146991},
+            {"lootId":147042},
+            {"lootId":147193},
+            {"lootId":147091},
+            {"lootId":147132},
+            {"lootId":147186},
+            {"lootId":147174},
+            {"lootId":147030},
+            {"lootId":147126},
+            {"lootId":147062},
+            {"lootId":147052},
+            {"lootId":147168},
+            {"lootId":147150},
+            {"lootId":147001},
+            {"lootId":147180},
+            {"lootId":147162},
+            {"lootId":147102},
+            {"lootId":147138},
+            {"lootId":147192},
+            {"lootId":147107},
+            {"lootId":147144},
+            {"lootId":147156}
+          ]
+
+        },
+
+        {
+          "bossId": 117269,
+          "loots" : [
+            {"lootId":147099},
+            {"lootId":146988},
+            {"lootId":147066},
+            {"lootId":147082},
+            {"lootId":147087},
+            {"lootId":147111},
+            {"lootId":147195},
+            {"lootId":147034},
+            {"lootId":147026},
+            {"lootId":147072},
+            {"lootId":151190},
+            {"lootId":147095},
+            {"lootId":147046},
+            {"lootId":147007},
+            {"lootId":147019},
+            {"lootId":147079},
+            {"lootId":147048},
+            {"lootId":147347}
+          ]
+
+        }
+
+      ]
+
+    }
+
+
+  ]
+
+}

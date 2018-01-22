@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lyrae</string>
+
+    <string name="title_activity_fullscreen_loading">FullscreenLoadingActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+    <string name ="dialog_tittle_choose_account_zone">Choissiez la zone de votre compte Battle net </string>
+    <string name="dialog_pos_btn_choose_account_zone">Ok</string>
+
+    <string-array
+        name="bn_account_zone">
+        <item>Europe</item>
+        <item>Etats-unis</item>
+        <item>Chinois</item>
+    </string-array>
+
+</resources>
